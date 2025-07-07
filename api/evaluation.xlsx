@@ -1,0 +1,3 @@
+{
+  "error": "Excel does not support timezones in datetimes. The tzinfo in the datetime/time object must be set to None."
+}
