@@ -7,7 +7,6 @@ from models.evaluation import create_evaluation_table
 from routes.evaluation import evaluation_bp
 
 # --- Configuration ---
-PORT = 7020
 STATIC_FOLDER = os.path.join(os.path.dirname(__file__), 'static')
 SECRET_KEY = 'asdf#FGSgvasgf$5$WGT'
 
